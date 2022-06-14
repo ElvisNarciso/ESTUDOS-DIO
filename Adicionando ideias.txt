@@ -1,2 +1,21 @@
 Final flash.
 Entrega de projeto.
+
+Criar prineiro repositório
+Escrevendo para não esquecer.
+
+1.Criar no Git
+Titulo e descrição com read me
+
+2. comando no Git Bash
+{git clone}+(o https do seu repositorio) para copiar o repositório
+
+3. abrir pelo git bash o seu local com o clone e que contenha a pasta .git
+
+4. Use o git status, depois caso queira colocar algum txt ou uma nova pasta no repositório local fique a vontade.
+
+5.use um {git status} de novo para olhar as mudanças, {git add .} ou {git add -a} ou ele vai aparecer a mensagem mas para fazer o commit não esqueça do código do commit
+
+6. código do commit, git commit -m "Titulo da sua preferência"
+
+7. Depois só dar o {git push origin main} e tudo pronto.

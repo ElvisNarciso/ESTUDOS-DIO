@@ -16,6 +16,6 @@ Titulo e descrição com read me
 
 5.use um {git status} de novo para olhar as mudanças, {git add .} ou {git add -a} ou ele vai aparecer a mensagem mas para fazer o commit não esqueça do código do commit
 
-6. código do commit, git commit -m "Titulo da sua preferência"
+6. código do commit, git commit -m "Titulo da sua preferência", qualquer coisa usa a tecla TAB para auto preenchimento.
 
 7. Depois só dar o {git push origin main} e tudo pronto.

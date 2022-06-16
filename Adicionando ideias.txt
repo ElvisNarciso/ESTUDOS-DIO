@@ -6,6 +6,7 @@ Escrevendo para não esquecer.
 
 1.Criar no Git
 Titulo e descrição com read me
+não esquece de criar um diretorio primeiro no pc, uma pasta com os nomes especificos.
 
 2. comando no Git Bash
 {git clone}+(o https do seu repositorio) para copiar o repositório

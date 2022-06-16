@@ -19,4 +19,4 @@ não esquece de criar um diretorio primeiro no pc, uma pasta com os nomes especi
 
 6. código do commit, git commit -m "Titulo da sua preferência", qualquer coisa usa a tecla TAB para auto preenchimento.
 
-7. Depois só dar o {git push origin main} e tudo pronto.
+7. Depois só dar o {git push origin main} e tudo pronto.5
